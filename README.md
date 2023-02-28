@@ -1,9 +1,6 @@
-# 
-
-
 <h1 align='center'>Lock-Animation</h1>
 
-<p>A Website challenge of Rocketseat. In this app I am using HTML and CSS.</p>
+<p>A lock/unlock effect for your apps. This animation was made using HTML, CSS and JAVASCRIPT. I hope you enjoy it!</p>
 
 ## Features Developed
 
