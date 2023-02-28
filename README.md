@@ -9,7 +9,7 @@
 
 ## Screenshots
 
-<img src="./lock.png" width="400"/> <img src="./unlock.png" width="4400"/>
+<img src="./lock.png" width="400"/> <img src="./unlock.png" width="400"/>
 
 ## Technologies
 
